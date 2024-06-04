@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/andeson-cleo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andeson-cleio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeson-cleio&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/andesoncleio">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andesoncleio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andesonleio&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -15,6 +15,14 @@
 <br>
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="https://www.youtube.com/andersonborges" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/andersonborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:anderson.rk9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
  
 <div> 
   <a href="https://www.youtube.com/andeson-cleio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
